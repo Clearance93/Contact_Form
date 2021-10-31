@@ -1,0 +1,10 @@
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.csprojAssemblyReference.cache
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.Form1.resources
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.Properties.Resources.resources
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.csproj.GenerateResource.cache
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.csproj.CoreCompileInputs.cache
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\bin\Debug\Contact_Application.exe.config
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\bin\Debug\Contact_Application.exe
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\bin\Debug\Contact_Application.pdb
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.exe
+C:\Users\Clearance Morumudi\source\repos\Contact_Application\obj\Debug\Contact_Application.pdb
